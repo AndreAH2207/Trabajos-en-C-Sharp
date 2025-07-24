@@ -1,0 +1,919 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ModelEF.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Administradores">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Codigo" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="Contraseña" Type="varchar" MaxLength="30" />
+          <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Apellido" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="ZonaHoraria" Type="varchar" MaxLength="10" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Autores">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Apellido" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Nacionalidad" Type="varchar" MaxLength="50" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Ejemplares">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="LibroId" Type="int" Nullable="false" />
+          <Property Name="Estado" Type="varchar" MaxLength="20" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Inventario">
+          <Key>
+            <PropertyRef Name="LibroId" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="LibroId" Type="int" Nullable="false" />
+          <Property Name="Ejemplares" Type="int" Nullable="false" />
+          <Property Name="Disponibles" Type="int" Nullable="false" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Libros">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Titulo" Type="varchar" MaxLength="200" Nullable="false" />
+          <Property Name="Genero" Type="varchar" MaxLength="50" />
+          <Property Name="Idioma" Type="varchar" MaxLength="50" />
+          <Property Name="FechaPublicacion" Type="date" />
+          <Property Name="CantidadPaginas" Type="int" />
+          <Property Name="Ubicacion" Type="varchar" MaxLength="100" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="LibrosAutores">
+          <Key>
+            <PropertyRef Name="LibroId" />
+            <PropertyRef Name="AutorId" />
+          </Key>
+          <Property Name="LibroId" Type="int" Nullable="false" />
+          <Property Name="AutorId" Type="int" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Multas">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AdministradorId" Type="int" Nullable="false" />
+          <Property Name="PrestamoId" Type="int" Nullable="false" />
+          <Property Name="Monto" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="Motivo" Type="varchar" MaxLength="200" />
+          <Property Name="Estado" Type="bit" Nullable="false" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Prestamos">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="EjemplarId" Type="int" Nullable="false" />
+          <Property Name="AdministradorId" Type="int" Nullable="false" />
+          <Property Name="Dni" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="ReservaId" Type="int" Nullable="false" />
+          <Property Name="FechaInicio" Type="date" />
+          <Property Name="FechaDevolucionPrevista" Type="date" />
+          <Property Name="FechaDevolucionReal" Type="date" />
+          <Property Name="Estado" Type="varchar" MaxLength="20" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Reservas">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="EjemplarId" Type="int" Nullable="false" />
+          <Property Name="UsuarioId" Type="int" Nullable="false" />
+          <Property Name="FechaInicio" Type="date" />
+          <Property Name="FechaFin" Type="date" />
+          <Property Name="Disponible" Type="date" />
+          <Property Name="Estado" Type="varchar" MaxLength="20" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Usuarios">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Contraseña" Type="varchar" MaxLength="30" />
+          <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Apellido" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Dni" Type="varchar" MaxLength="20" />
+          <Property Name="Correo" Type="varchar" MaxLength="100" />
+          <Property Name="Telefono" Type="varchar" MaxLength="15" />
+          <Property Name="Pais" Type="varchar" MaxLength="60" Nullable="false" />
+          <Property Name="Ciudad" Type="varchar" MaxLength="70" Nullable="false" />
+          <Property Name="ZonaHoraria" Type="varchar" MaxLength="10" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="Eliminado" Type="bit" Nullable="false" />
+          <Property Name="CreacionId" Type="int" />
+          <Property Name="FechaCreacion" Type="datetime" />
+          <Property Name="ModificacionId" Type="int" />
+          <Property Name="FechaModificacion" Type="datetime" />
+        </EntityType>
+        <Association Name="FK__Ejemplare__Libro__412EB0B6">
+          <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+          <End Role="Ejemplares" Type="Self.Ejemplares" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Libros">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Ejemplares">
+              <PropertyRef Name="LibroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Inventari__Libro__440B1D61">
+          <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+          <End Role="Inventario" Type="Self.Inventario" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Libros">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Inventario">
+              <PropertyRef Name="LibroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LibrosAut__Autor__47DBAE45">
+          <End Role="Autores" Type="Self.Autores" Multiplicity="1" />
+          <End Role="LibrosAutores" Type="Self.LibrosAutores" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Autores">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="LibrosAutores">
+              <PropertyRef Name="AutorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LibrosAut__Libro__46E78A0C">
+          <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+          <End Role="LibrosAutores" Type="Self.LibrosAutores" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Libros">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="LibrosAutores">
+              <PropertyRef Name="LibroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Multas__Administ__52593CB8">
+          <End Role="Administradores" Type="Self.Administradores" Multiplicity="1" />
+          <End Role="Multas" Type="Self.Multas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Administradores">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Multas">
+              <PropertyRef Name="AdministradorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Multas__Prestamo__534D60F1">
+          <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="1" />
+          <End Role="Multas" Type="Self.Multas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Prestamos">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Multas">
+              <PropertyRef Name="PrestamoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Prestamos__Admin__4E88ABD4">
+          <End Role="Administradores" Type="Self.Administradores" Multiplicity="1" />
+          <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Administradores">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Prestamos">
+              <PropertyRef Name="AdministradorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Prestamos__Reser__4F7CD00D">
+          <End Role="Reservas" Type="Self.Reservas" Multiplicity="1" />
+          <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Reservas">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Prestamos">
+              <PropertyRef Name="ReservaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Reservas__Ejempl__4AB81AF0">
+          <End Role="Ejemplares" Type="Self.Ejemplares" Multiplicity="1" />
+          <End Role="Reservas" Type="Self.Reservas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ejemplares">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reservas">
+              <PropertyRef Name="EjemplarId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Reservas__Usuari__4BAC3F29">
+          <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+          <End Role="Reservas" Type="Self.Reservas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Usuarios">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reservas">
+              <PropertyRef Name="UsuarioId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ModelEFStoreContainer">
+          <EntitySet Name="Administradores" EntityType="Self.Administradores" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Autores" EntityType="Self.Autores" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Ejemplares" EntityType="Self.Ejemplares" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Inventario" EntityType="Self.Inventario" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Libros" EntityType="Self.Libros" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="LibrosAutores" EntityType="Self.LibrosAutores" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Multas" EntityType="Self.Multas" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Prestamos" EntityType="Self.Prestamos" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Reservas" EntityType="Self.Reservas" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Ejemplare__Libro__412EB0B6" Association="Self.FK__Ejemplare__Libro__412EB0B6">
+            <End Role="Libros" EntitySet="Libros" />
+            <End Role="Ejemplares" EntitySet="Ejemplares" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Inventari__Libro__440B1D61" Association="Self.FK__Inventari__Libro__440B1D61">
+            <End Role="Libros" EntitySet="Libros" />
+            <End Role="Inventario" EntitySet="Inventario" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LibrosAut__Autor__47DBAE45" Association="Self.FK__LibrosAut__Autor__47DBAE45">
+            <End Role="Autores" EntitySet="Autores" />
+            <End Role="LibrosAutores" EntitySet="LibrosAutores" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LibrosAut__Libro__46E78A0C" Association="Self.FK__LibrosAut__Libro__46E78A0C">
+            <End Role="Libros" EntitySet="Libros" />
+            <End Role="LibrosAutores" EntitySet="LibrosAutores" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Multas__Administ__52593CB8" Association="Self.FK__Multas__Administ__52593CB8">
+            <End Role="Administradores" EntitySet="Administradores" />
+            <End Role="Multas" EntitySet="Multas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Multas__Prestamo__534D60F1" Association="Self.FK__Multas__Prestamo__534D60F1">
+            <End Role="Prestamos" EntitySet="Prestamos" />
+            <End Role="Multas" EntitySet="Multas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Prestamos__Admin__4E88ABD4" Association="Self.FK__Prestamos__Admin__4E88ABD4">
+            <End Role="Administradores" EntitySet="Administradores" />
+            <End Role="Prestamos" EntitySet="Prestamos" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Prestamos__Reser__4F7CD00D" Association="Self.FK__Prestamos__Reser__4F7CD00D">
+            <End Role="Reservas" EntitySet="Reservas" />
+            <End Role="Prestamos" EntitySet="Prestamos" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Reservas__Ejempl__4AB81AF0" Association="Self.FK__Reservas__Ejempl__4AB81AF0">
+            <End Role="Ejemplares" EntitySet="Ejemplares" />
+            <End Role="Reservas" EntitySet="Reservas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Reservas__Usuari__4BAC3F29" Association="Self.FK__Reservas__Usuari__4BAC3F29">
+            <End Role="Usuarios" EntitySet="Usuarios" />
+            <End Role="Reservas" EntitySet="Reservas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ModelEF" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Administradores">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Contraseña" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Apellido" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="ZonaHoraria" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Multas" Relationship="Self.FK__Multas__Administ__52593CB8" FromRole="Administradores" ToRole="Multas" />
+          <NavigationProperty Name="Prestamos" Relationship="Self.FK__Prestamos__Admin__4E88ABD4" FromRole="Administradores" ToRole="Prestamos" />
+        </EntityType>
+        <EntityType Name="Autores">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Apellido" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Nacionalidad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="LibrosAutores" Relationship="Self.FK__LibrosAut__Autor__47DBAE45" FromRole="Autores" ToRole="LibrosAutores" />
+        </EntityType>
+        <EntityType Name="Ejemplares">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="LibroId" Type="Int32" Nullable="false" />
+          <Property Name="Estado" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Libros" Relationship="Self.FK__Ejemplare__Libro__412EB0B6" FromRole="Ejemplares" ToRole="Libros" />
+          <NavigationProperty Name="Reservas" Relationship="Self.FK__Reservas__Ejempl__4AB81AF0" FromRole="Ejemplares" ToRole="Reservas" />
+        </EntityType>
+        <EntityType Name="Inventario">
+          <Key>
+            <PropertyRef Name="LibroId" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="LibroId" Type="Int32" Nullable="false" />
+          <Property Name="Ejemplares" Type="Int32" Nullable="false" />
+          <Property Name="Disponibles" Type="Int32" Nullable="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Libros" Relationship="Self.FK__Inventari__Libro__440B1D61" FromRole="Inventario" ToRole="Libros" />
+        </EntityType>
+        <EntityType Name="Libros">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Titulo" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Genero" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Idioma" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FechaPublicacion" Type="DateTime" Precision="0" />
+          <Property Name="CantidadPaginas" Type="Int32" />
+          <Property Name="Ubicacion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Ejemplares" Relationship="Self.FK__Ejemplare__Libro__412EB0B6" FromRole="Libros" ToRole="Ejemplares" />
+          <NavigationProperty Name="Inventario" Relationship="Self.FK__Inventari__Libro__440B1D61" FromRole="Libros" ToRole="Inventario" />
+          <NavigationProperty Name="LibrosAutores" Relationship="Self.FK__LibrosAut__Libro__46E78A0C" FromRole="Libros" ToRole="LibrosAutores" />
+        </EntityType>
+        <EntityType Name="LibrosAutores">
+          <Key>
+            <PropertyRef Name="LibroId" />
+            <PropertyRef Name="AutorId" />
+          </Key>
+          <Property Name="LibroId" Type="Int32" Nullable="false" />
+          <Property Name="AutorId" Type="Int32" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Autores" Relationship="Self.FK__LibrosAut__Autor__47DBAE45" FromRole="LibrosAutores" ToRole="Autores" />
+          <NavigationProperty Name="Libros" Relationship="Self.FK__LibrosAut__Libro__46E78A0C" FromRole="LibrosAutores" ToRole="Libros" />
+        </EntityType>
+        <EntityType Name="Multas">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AdministradorId" Type="Int32" Nullable="false" />
+          <Property Name="PrestamoId" Type="Int32" Nullable="false" />
+          <Property Name="Monto" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="Motivo" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="Estado" Type="Boolean" Nullable="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Administradores" Relationship="Self.FK__Multas__Administ__52593CB8" FromRole="Multas" ToRole="Administradores" />
+          <NavigationProperty Name="Prestamos" Relationship="Self.FK__Multas__Prestamo__534D60F1" FromRole="Multas" ToRole="Prestamos" />
+        </EntityType>
+        <EntityType Name="Prestamos">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="EjemplarId" Type="Int32" Nullable="false" />
+          <Property Name="AdministradorId" Type="Int32" Nullable="false" />
+          <Property Name="Dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="ReservaId" Type="Int32" Nullable="false" />
+          <Property Name="FechaInicio" Type="DateTime" Precision="0" />
+          <Property Name="FechaDevolucionPrevista" Type="DateTime" Precision="0" />
+          <Property Name="FechaDevolucionReal" Type="DateTime" Precision="0" />
+          <Property Name="Estado" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Administradores" Relationship="Self.FK__Prestamos__Admin__4E88ABD4" FromRole="Prestamos" ToRole="Administradores" />
+          <NavigationProperty Name="Multas" Relationship="Self.FK__Multas__Prestamo__534D60F1" FromRole="Prestamos" ToRole="Multas" />
+          <NavigationProperty Name="Reservas" Relationship="Self.FK__Prestamos__Reser__4F7CD00D" FromRole="Prestamos" ToRole="Reservas" />
+        </EntityType>
+        <EntityType Name="Reservas">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="EjemplarId" Type="Int32" Nullable="false" />
+          <Property Name="UsuarioId" Type="Int32" Nullable="false" />
+          <Property Name="FechaInicio" Type="DateTime" Precision="0" />
+          <Property Name="FechaFin" Type="DateTime" Precision="0" />
+          <Property Name="Disponible" Type="DateTime" Precision="0" />
+          <Property Name="Estado" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Ejemplares" Relationship="Self.FK__Reservas__Ejempl__4AB81AF0" FromRole="Reservas" ToRole="Ejemplares" />
+          <NavigationProperty Name="Prestamos" Relationship="Self.FK__Prestamos__Reser__4F7CD00D" FromRole="Reservas" ToRole="Prestamos" />
+          <NavigationProperty Name="Usuarios" Relationship="Self.FK__Reservas__Usuari__4BAC3F29" FromRole="Reservas" ToRole="Usuarios" />
+        </EntityType>
+        <EntityType Name="Usuarios">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Contraseña" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Apellido" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Dni" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Correo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Telefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="Pais" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Ciudad" Type="String" MaxLength="70" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="ZonaHoraria" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+          <Property Name="CreacionId" Type="Int32" />
+          <Property Name="FechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ModificacionId" Type="Int32" />
+          <Property Name="FechaModificacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Reservas" Relationship="Self.FK__Reservas__Usuari__4BAC3F29" FromRole="Usuarios" ToRole="Reservas" />
+        </EntityType>
+        <Association Name="FK__Multas__Administ__52593CB8">
+          <End Role="Administradores" Type="Self.Administradores" Multiplicity="1" />
+          <End Role="Multas" Type="Self.Multas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Administradores">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Multas">
+              <PropertyRef Name="AdministradorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Prestamos__Admin__4E88ABD4">
+          <End Role="Administradores" Type="Self.Administradores" Multiplicity="1" />
+          <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Administradores">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Prestamos">
+              <PropertyRef Name="AdministradorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LibrosAut__Autor__47DBAE45">
+          <End Role="Autores" Type="Self.Autores" Multiplicity="1" />
+          <End Role="LibrosAutores" Type="Self.LibrosAutores" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Autores">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="LibrosAutores">
+              <PropertyRef Name="AutorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Ejemplare__Libro__412EB0B6">
+          <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+          <End Role="Ejemplares" Type="Self.Ejemplares" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Libros">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Ejemplares">
+              <PropertyRef Name="LibroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Reservas__Ejempl__4AB81AF0">
+          <End Role="Ejemplares" Type="Self.Ejemplares" Multiplicity="1" />
+          <End Role="Reservas" Type="Self.Reservas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Ejemplares">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reservas">
+              <PropertyRef Name="EjemplarId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Inventari__Libro__440B1D61">
+          <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+          <End Role="Inventario" Type="Self.Inventario" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Libros">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Inventario">
+              <PropertyRef Name="LibroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LibrosAut__Libro__46E78A0C">
+          <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+          <End Role="LibrosAutores" Type="Self.LibrosAutores" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Libros">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="LibrosAutores">
+              <PropertyRef Name="LibroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Multas__Prestamo__534D60F1">
+          <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="1" />
+          <End Role="Multas" Type="Self.Multas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Prestamos">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Multas">
+              <PropertyRef Name="PrestamoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Prestamos__Reser__4F7CD00D">
+          <End Role="Reservas" Type="Self.Reservas" Multiplicity="1" />
+          <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Reservas">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Prestamos">
+              <PropertyRef Name="ReservaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Reservas__Usuari__4BAC3F29">
+          <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+          <End Role="Reservas" Type="Self.Reservas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Usuarios">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reservas">
+              <PropertyRef Name="UsuarioId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="BDEFEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Administradores" EntityType="Self.Administradores" />
+          <EntitySet Name="Autores" EntityType="Self.Autores" />
+          <EntitySet Name="Ejemplares" EntityType="Self.Ejemplares" />
+          <EntitySet Name="Inventario" EntityType="Self.Inventario" />
+          <EntitySet Name="Libros" EntityType="Self.Libros" />
+          <EntitySet Name="LibrosAutores" EntityType="Self.LibrosAutores" />
+          <EntitySet Name="Multas" EntityType="Self.Multas" />
+          <EntitySet Name="Prestamos" EntityType="Self.Prestamos" />
+          <EntitySet Name="Reservas" EntityType="Self.Reservas" />
+          <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+          <AssociationSet Name="FK__Multas__Administ__52593CB8" Association="Self.FK__Multas__Administ__52593CB8">
+            <End Role="Administradores" EntitySet="Administradores" />
+            <End Role="Multas" EntitySet="Multas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Prestamos__Admin__4E88ABD4" Association="Self.FK__Prestamos__Admin__4E88ABD4">
+            <End Role="Administradores" EntitySet="Administradores" />
+            <End Role="Prestamos" EntitySet="Prestamos" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LibrosAut__Autor__47DBAE45" Association="Self.FK__LibrosAut__Autor__47DBAE45">
+            <End Role="Autores" EntitySet="Autores" />
+            <End Role="LibrosAutores" EntitySet="LibrosAutores" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Ejemplare__Libro__412EB0B6" Association="Self.FK__Ejemplare__Libro__412EB0B6">
+            <End Role="Libros" EntitySet="Libros" />
+            <End Role="Ejemplares" EntitySet="Ejemplares" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Reservas__Ejempl__4AB81AF0" Association="Self.FK__Reservas__Ejempl__4AB81AF0">
+            <End Role="Ejemplares" EntitySet="Ejemplares" />
+            <End Role="Reservas" EntitySet="Reservas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Inventari__Libro__440B1D61" Association="Self.FK__Inventari__Libro__440B1D61">
+            <End Role="Libros" EntitySet="Libros" />
+            <End Role="Inventario" EntitySet="Inventario" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LibrosAut__Libro__46E78A0C" Association="Self.FK__LibrosAut__Libro__46E78A0C">
+            <End Role="Libros" EntitySet="Libros" />
+            <End Role="LibrosAutores" EntitySet="LibrosAutores" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Multas__Prestamo__534D60F1" Association="Self.FK__Multas__Prestamo__534D60F1">
+            <End Role="Prestamos" EntitySet="Prestamos" />
+            <End Role="Multas" EntitySet="Multas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Prestamos__Reser__4F7CD00D" Association="Self.FK__Prestamos__Reser__4F7CD00D">
+            <End Role="Reservas" EntitySet="Reservas" />
+            <End Role="Prestamos" EntitySet="Prestamos" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Reservas__Usuari__4BAC3F29" Association="Self.FK__Reservas__Usuari__4BAC3F29">
+            <End Role="Usuarios" EntitySet="Usuarios" />
+            <End Role="Reservas" EntitySet="Reservas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ModelEFStoreContainer" CdmEntityContainer="BDEFEntities">
+          <EntitySetMapping Name="Administradores">
+            <EntityTypeMapping TypeName="ModelEF.Administradores">
+              <MappingFragment StoreEntitySet="Administradores">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+                <ScalarProperty Name="Contraseña" ColumnName="Contraseña" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+                <ScalarProperty Name="ZonaHoraria" ColumnName="ZonaHoraria" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Autores">
+            <EntityTypeMapping TypeName="ModelEF.Autores">
+              <MappingFragment StoreEntitySet="Autores">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+                <ScalarProperty Name="Nacionalidad" ColumnName="Nacionalidad" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ejemplares">
+            <EntityTypeMapping TypeName="ModelEF.Ejemplares">
+              <MappingFragment StoreEntitySet="Ejemplares">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="LibroId" ColumnName="LibroId" />
+                <ScalarProperty Name="Estado" ColumnName="Estado" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Inventario">
+            <EntityTypeMapping TypeName="ModelEF.Inventario">
+              <MappingFragment StoreEntitySet="Inventario">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="LibroId" ColumnName="LibroId" />
+                <ScalarProperty Name="Ejemplares" ColumnName="Ejemplares" />
+                <ScalarProperty Name="Disponibles" ColumnName="Disponibles" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Libros">
+            <EntityTypeMapping TypeName="ModelEF.Libros">
+              <MappingFragment StoreEntitySet="Libros">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+                <ScalarProperty Name="Genero" ColumnName="Genero" />
+                <ScalarProperty Name="Idioma" ColumnName="Idioma" />
+                <ScalarProperty Name="FechaPublicacion" ColumnName="FechaPublicacion" />
+                <ScalarProperty Name="CantidadPaginas" ColumnName="CantidadPaginas" />
+                <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="LibrosAutores">
+            <EntityTypeMapping TypeName="ModelEF.LibrosAutores">
+              <MappingFragment StoreEntitySet="LibrosAutores">
+                <ScalarProperty Name="LibroId" ColumnName="LibroId" />
+                <ScalarProperty Name="AutorId" ColumnName="AutorId" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Multas">
+            <EntityTypeMapping TypeName="ModelEF.Multas">
+              <MappingFragment StoreEntitySet="Multas">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="AdministradorId" ColumnName="AdministradorId" />
+                <ScalarProperty Name="PrestamoId" ColumnName="PrestamoId" />
+                <ScalarProperty Name="Monto" ColumnName="Monto" />
+                <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+                <ScalarProperty Name="Estado" ColumnName="Estado" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Prestamos">
+            <EntityTypeMapping TypeName="ModelEF.Prestamos">
+              <MappingFragment StoreEntitySet="Prestamos">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="EjemplarId" ColumnName="EjemplarId" />
+                <ScalarProperty Name="AdministradorId" ColumnName="AdministradorId" />
+                <ScalarProperty Name="Dni" ColumnName="Dni" />
+                <ScalarProperty Name="ReservaId" ColumnName="ReservaId" />
+                <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+                <ScalarProperty Name="FechaDevolucionPrevista" ColumnName="FechaDevolucionPrevista" />
+                <ScalarProperty Name="FechaDevolucionReal" ColumnName="FechaDevolucionReal" />
+                <ScalarProperty Name="Estado" ColumnName="Estado" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Reservas">
+            <EntityTypeMapping TypeName="ModelEF.Reservas">
+              <MappingFragment StoreEntitySet="Reservas">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="EjemplarId" ColumnName="EjemplarId" />
+                <ScalarProperty Name="UsuarioId" ColumnName="UsuarioId" />
+                <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+                <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+                <ScalarProperty Name="Disponible" ColumnName="Disponible" />
+                <ScalarProperty Name="Estado" ColumnName="Estado" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Usuarios">
+            <EntityTypeMapping TypeName="ModelEF.Usuarios">
+              <MappingFragment StoreEntitySet="Usuarios">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Contraseña" ColumnName="Contraseña" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+                <ScalarProperty Name="Dni" ColumnName="Dni" />
+                <ScalarProperty Name="Correo" ColumnName="Correo" />
+                <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+                <ScalarProperty Name="Pais" ColumnName="Pais" />
+                <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+                <ScalarProperty Name="ZonaHoraria" ColumnName="ZonaHoraria" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+                <ScalarProperty Name="CreacionId" ColumnName="CreacionId" />
+                <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+                <ScalarProperty Name="ModificacionId" ColumnName="ModificacionId" />
+                <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

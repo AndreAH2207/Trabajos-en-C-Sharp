@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="88c8545ca1ce43f9b3cb63e6cb0020e7" Name="Diagram1">
+        <EntityTypeShape EntityType="ModelEF.Administradores" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Autores" Width="1.5" PointX="3.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Ejemplares" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Inventario" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Libros" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.LibrosAutores" Width="1.5" PointX="6" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Multas" Width="1.5" PointX="9.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Prestamos" Width="1.5" PointX="7.5" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Reservas" Width="1.5" PointX="5.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Usuarios" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="ModelEF.FK__Multas__Administ__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Prestamos__Admin__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__LibrosAut__Autor__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Ejemplare__Libro__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Reservas__Ejempl__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Inventari__Libro__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__LibrosAut__Libro__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Multas__Prestamo__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Prestamos__Reser__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK__Reservas__Usuari__4BAC3F29" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

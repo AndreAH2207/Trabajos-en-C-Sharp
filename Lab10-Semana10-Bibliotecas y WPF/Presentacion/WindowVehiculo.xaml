@@ -1,0 +1,26 @@
+﻿<Window x:Class="Presentacion.WindowVehiculo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="Vehiculos" Height="375" Width="830" Background="#FFF9D9C3">
+    <Grid HorizontalAlignment="Center" Width="830" Height="355" VerticalAlignment="Top">
+        <TextBox x:Name="tbPlaca" HorizontalAlignment="Left" Margin="111,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="tbMarca" HorizontalAlignment="Left" Margin="111,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="tbModelo" HorizontalAlignment="Left" Margin="111,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="tbPrecio" HorizontalAlignment="Left" Margin="111,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="tbKilometraje" HorizontalAlignment="Left" Margin="111,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <Label x:Name="label" Content="Placa:" HorizontalAlignment="Left" Margin="12,46,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Marca:" HorizontalAlignment="Left" Margin="12,77,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Modelo:" HorizontalAlignment="Left" Margin="12,108,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Precio:" HorizontalAlignment="Left" Margin="12,139,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Kilometraje:" HorizontalAlignment="Left" Margin="12,170,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="125,219,0,0" VerticalAlignment="Top" Height="26" Width="73" Click="btnRegistrar_Click"/>
+        <Button x:Name="btnListarTodo" Content="Listar Todo" HorizontalAlignment="Left" Margin="125,258,0,0" VerticalAlignment="Top" Height="26" Width="73" Click="btnListarTodo_Click"/>
+        <Button x:Name="btnOrdenarPorPrecio" Content="Ordenar Precio" HorizontalAlignment="Left" Margin="285,260,0,0" VerticalAlignment="Top" Height="24" Width="86" Click="btnOrdenarPorPrecio_Click"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="722,263,0,0" VerticalAlignment="Top" Height="25" Width="73" Click="btnSalir_Click_1"/>
+        <DataGrid x:Name="dgVehiculos" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="285,39,35,0" Height="198" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

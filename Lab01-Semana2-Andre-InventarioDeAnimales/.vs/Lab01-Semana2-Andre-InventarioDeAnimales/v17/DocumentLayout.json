@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab01-semana2-andre-inventariodeanimales\\lab01-semana2-andre-inventariodeanimales\\controladores\\controladoranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|solutionrelative:lab01-semana2-andre-inventariodeanimales\\controladores\\controladoranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab01-semana2-andre-inventariodeanimales\\lab01-semana2-andre-inventariodeanimales\\entidades\\canimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|solutionrelative:lab01-semana2-andre-inventariodeanimales\\entidades\\canimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab01-semana2-andre-inventariodeanimales\\lab01-semana2-andre-inventariodeanimales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|solutionrelative:lab01-semana2-andre-inventariodeanimales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab01-semana2-andre-inventariodeanimales\\lab01-semana2-andre-inventariodeanimales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|solutionrelative:lab01-semana2-andre-inventariodeanimales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab01-semana2-andre-inventariodeanimales\\lab01-semana2-andre-inventariodeanimales\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|solutionrelative:lab01-semana2-andre-inventariodeanimales\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab01-semana2-andre-inventariodeanimales\\lab01-semana2-andre-inventariodeanimales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D973A1-C376-48F0-9F36-56F8DBEB1545}|Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales.csproj|solutionrelative:lab01-semana2-andre-inventariodeanimales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs",
+              "RelativeToolTip": "Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:16:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01-Semana2-Andre-InventarioDeAnimales\\Program.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Program.cs",
+              "RelativeToolTip": "Lab01-Semana2-Andre-InventarioDeAnimales\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:28:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\App.config",
+              "RelativeDocumentMoniker": "Lab01-Semana2-Andre-InventarioDeAnimales\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\App.config",
+              "RelativeToolTip": "Lab01-Semana2-Andre-InventarioDeAnimales\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-10T03:47:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControladorAnimal.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Controladores\\ControladorAnimal.cs",
+              "RelativeDocumentMoniker": "Lab01-Semana2-Andre-InventarioDeAnimales\\Controladores\\ControladorAnimal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Controladores\\ControladorAnimal.cs",
+              "RelativeToolTip": "Lab01-Semana2-Andre-InventarioDeAnimales\\Controladores\\ControladorAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:32:53.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CAnimal.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Entidades\\CAnimal.cs",
+              "RelativeDocumentMoniker": "Lab01-Semana2-Andre-InventarioDeAnimales\\Entidades\\CAnimal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Entidades\\CAnimal.cs",
+              "RelativeToolTip": "Lab01-Semana2-Andre-InventarioDeAnimales\\Entidades\\CAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:29:18.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab01-Semana2-Andre-InventarioDeAnimales\\Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Lab01-Semana2-Andre-InventarioDeAnimales\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:02:27.616Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

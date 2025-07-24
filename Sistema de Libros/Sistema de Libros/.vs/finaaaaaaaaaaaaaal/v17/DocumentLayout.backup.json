@@ -1,0 +1,948 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formcantidadreservasdegeneroporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formcantidadreservasdegeneroporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formcantidadreservasdegeneroporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formcantidadreservasdegeneroporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final\\tf_u20211a174\\trabajo final\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formloginusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formloginusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formloginusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formloginusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nlibroautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nlibroautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nmulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nmulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\negocio\\nautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5D6A3E-B58F-41BB-93D1-AD37DF6D41C5}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dlibroautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dlibroautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dmulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dmulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\administradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\administradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\ejemplares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\ejemplares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\datos\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{44116A5B-51C8-4052-AA29-23614A8F07E4}|Datos\\Datos.csproj|solutionrelative:datos\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formbuscarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formbuscarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formbuscarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formbuscarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formregistraradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formregistraradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formregistraradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formregistraradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formverestadodeprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formverestadodeprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formreservarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formreservarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formreservarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formreservarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formregistrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formregistrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparausuarios\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparausuarios\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formasignarestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formasignarestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formasignarestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formasignarestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formverprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formverprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formmenureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formmenureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formverprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formverprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formverestadodeprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formverestadodeprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formmenureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formmenureportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formloginadministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formloginadministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\formloginadministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\formloginadministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formmultaspendientespagadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formmultaspendientespagadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formmultaspendientespagadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formmultaspendientespagadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formlibrosporautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formlibrosporautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formlibrosporautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formlibrosporautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formlibrosconestadodeficiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formlibrosconestadodeficiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\presentacion\\formsparaadministrativos\\reportes\\formlibrosconestadodeficiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{353DD3B3-1970-482D-A6D8-0CE98E441FC7}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsparaadministrativos\\reportes\\formlibrosconestadodeficiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 37,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Presentacion\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\App.config",
+              "RelativeToolTip": "Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T23:06:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\App.config",
+              "RelativeDocumentMoniker": "Datos\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\App.config",
+              "RelativeToolTip": "Datos\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T23:06:07.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\packages.config",
+              "RelativeDocumentMoniker": "Datos\\packages.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\packages.config",
+              "RelativeToolTip": "Datos\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T23:05:32.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NPrestamos.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NPrestamos.cs",
+              "RelativeDocumentMoniker": "Negocio\\NPrestamos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NPrestamos.cs",
+              "RelativeToolTip": "Negocio\\NPrestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NLibroAutor.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NLibroAutor.cs",
+              "RelativeDocumentMoniker": "Negocio\\NLibroAutor.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NLibroAutor.cs",
+              "RelativeToolTip": "Negocio\\NLibroAutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:32.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NAutor.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NAutor.cs",
+              "RelativeDocumentMoniker": "Negocio\\NAutor.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NAutor.cs",
+              "RelativeToolTip": "Negocio\\NAutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DLibroAutor.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DLibroAutor.cs",
+              "RelativeDocumentMoniker": "Datos\\DLibroAutor.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DLibroAutor.cs",
+              "RelativeToolTip": "Datos\\DLibroAutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DMulta.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DMulta.cs",
+              "RelativeDocumentMoniker": "Datos\\DMulta.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DMulta.cs",
+              "RelativeToolTip": "Datos\\DMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:22.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DPrestamos.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DPrestamos.cs",
+              "RelativeDocumentMoniker": "Datos\\DPrestamos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DPrestamos.cs",
+              "RelativeToolTip": "Datos\\DPrestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NAdministrador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NAdministrador.cs",
+              "RelativeDocumentMoniker": "Negocio\\NAdministrador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NAdministrador.cs",
+              "RelativeToolTip": "Negocio\\NAdministrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:18.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NUsuario.cs",
+              "RelativeDocumentMoniker": "Negocio\\NUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NUsuario.cs",
+              "RelativeToolTip": "Negocio\\NUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:13.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Multas.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Multas.cs",
+              "RelativeDocumentMoniker": "Datos\\Multas.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Multas.cs",
+              "RelativeToolTip": "Datos\\Multas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:00:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.cs",
+              "RelativeDocumentMoniker": "Datos\\Model1.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.cs",
+              "RelativeToolTip": "Datos\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:00:13.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Administradores.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Administradores.cs",
+              "RelativeDocumentMoniker": "Datos\\Administradores.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Administradores.cs",
+              "RelativeToolTip": "Datos\\Administradores.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:00:06.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Autores.cs",
+              "RelativeDocumentMoniker": "Datos\\Autores.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Autores.cs",
+              "RelativeToolTip": "Datos\\Autores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:00:05.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Ejemplares.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Ejemplares.cs",
+              "RelativeDocumentMoniker": "Datos\\Ejemplares.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Ejemplares.cs",
+              "RelativeToolTip": "Datos\\Ejemplares.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:59:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Datos\\Model1.Context.tt",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.Context.tt",
+              "RelativeToolTip": "Datos\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T22:59:38.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.edmx",
+              "RelativeDocumentMoniker": "Datos\\Model1.edmx",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-19T22:57:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormRegistrarAdministrativos.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:53:30.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormMenuPrincipal.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:53:27.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAdministrador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DAdministrador.cs",
+              "RelativeDocumentMoniker": "Datos\\DAdministrador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DAdministrador.cs",
+              "RelativeToolTip": "Datos\\DAdministrador.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:53:11.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DAutor.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DAutor.cs",
+              "RelativeDocumentMoniker": "Datos\\DAutor.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DAutor.cs",
+              "RelativeToolTip": "Datos\\DAutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:53:10.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormReservarLibro.cs [Design]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:06.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormReservarLibro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaUsuarios\\FormReservarLibro.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:06.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NLibro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NLibro.cs",
+              "RelativeDocumentMoniker": "Negocio\\NLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NLibro.cs",
+              "RelativeToolTip": "Negocio\\NLibro.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DLibro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DLibro.cs",
+              "RelativeDocumentMoniker": "Datos\\DLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DLibro.cs",
+              "RelativeToolTip": "Datos\\DLibro.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAiwNMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NReserva.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NReserva.cs",
+              "RelativeDocumentMoniker": "Negocio\\NReserva.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NReserva.cs",
+              "RelativeToolTip": "Negocio\\NReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DReserva.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DReserva.cs",
+              "RelativeDocumentMoniker": "Datos\\DReserva.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DReserva.cs",
+              "RelativeToolTip": "Datos\\DReserva.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormRegistrarUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormRegistrarUsuarios.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormRegistrarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormRegistrarUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLoginUsuarios.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormMenuPrincipal.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLoginUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaUsuarios\\FormLoginUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Datos\\DUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Datos\\DUsuario.cs",
+              "RelativeToolTip": "Datos\\DUsuario.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCantidadReservasDeGeneroPorUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.04Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCantidadReservasDeGeneroPorUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormCantidadReservasDeGeneroPorUsuario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormAsignarEstado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAASwEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormBuscarLibro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormAsignarEstado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormAsignarEstado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormBuscarLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormBuscarLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormVerPrestamo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormVerEstadoDePrestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormMenuReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormRegistrarLibro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormVerEstadoDePrestamos.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormVerEstadoDePrestamos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormVerPrestamo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormVerPrestamo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormRegistrarLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormRegistrarAdministrativos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\New folder\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormRegistrarAdministrativos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormMenuReportes.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormMenuReportes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormLoginAdministrativos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormLoginAdministrativos.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\FormLoginAdministrativos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormMultasPendientesPagadas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormLibrosPorAutor.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormLibrosConEstadoDeficiente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormMultasPendientesPagadas.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormMultasPendientesPagadas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormLibrosConEstadoDeficiente.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs",
+              "RelativeToolTip": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosConEstadoDeficiente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormLibrosPorAutor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos de programacion\\proyectos c#\\finaaaaaaaaaaaaaal\\Presentacion\\FormsParaAdministrativos\\Reportes\\FormLibrosPorAutor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T22:42:07.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NMulta.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NMulta.cs",
+              "RelativeDocumentMoniker": "Negocio\\NMulta.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final\\TF_U20211A174\\TRABAJO FINAL\\finaaaaaaaaaaaaaal\\finaaaaaaaaaaaaaal\\Negocio\\NMulta.cs",
+              "RelativeToolTip": "Negocio\\NMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:42:07.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

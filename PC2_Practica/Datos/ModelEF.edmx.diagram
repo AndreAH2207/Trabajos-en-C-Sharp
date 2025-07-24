@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0e65afad3bb04ea98a4dc8bfbc92965e" Name="Diagram1">
+        <EntityTypeShape EntityType="ModelEF.AFP" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Empleado" Width="1.5" PointX="6.375" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Retiro" Width="1.5" PointX="3.625" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="ModelEF.FK_Retiro_AFP" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.FK_Retiro_Empleado" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Administradores">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Contraseña" Type="varchar" MaxLength="30" />
+    <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ZonaHoraria" Type="varchar" MaxLength="10" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Autores">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Nacionalidad" Type="varchar" MaxLength="50" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Ejemplares">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LibroId" Type="int" Nullable="false" />
+    <Property Name="Estado" Type="varchar" MaxLength="20" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Inventario">
+    <Key>
+      <PropertyRef Name="LibroId" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LibroId" Type="int" Nullable="false" />
+    <Property Name="Ejemplares" Type="int" Nullable="false" />
+    <Property Name="Disponibles" Type="int" Nullable="false" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Libros">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Titulo" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Genero" Type="varchar" MaxLength="50" />
+    <Property Name="Idioma" Type="varchar" MaxLength="50" />
+    <Property Name="FechaPublicacion" Type="date" />
+    <Property Name="CantidadPaginas" Type="int" />
+    <Property Name="Ubicacion" Type="varchar" MaxLength="100" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="LibrosAutores">
+    <Key>
+      <PropertyRef Name="LibroId" />
+      <PropertyRef Name="AutorId" />
+    </Key>
+    <Property Name="LibroId" Type="int" Nullable="false" />
+    <Property Name="AutorId" Type="int" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Multas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdministradorId" Type="int" Nullable="false" />
+    <Property Name="PrestamoId" Type="int" Nullable="false" />
+    <Property Name="Monto" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Motivo" Type="varchar" MaxLength="200" />
+    <Property Name="Estado" Type="bit" Nullable="false" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Prestamos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EjemplarId" Type="int" Nullable="false" />
+    <Property Name="AdministradorId" Type="int" Nullable="false" />
+    <Property Name="Dni" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ReservaId" Type="int" Nullable="false" />
+    <Property Name="FechaInicio" Type="date" />
+    <Property Name="FechaDevolucionPrevista" Type="date" />
+    <Property Name="FechaDevolucionReal" Type="date" />
+    <Property Name="Estado" Type="varchar" MaxLength="20" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Reservas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EjemplarId" Type="int" Nullable="false" />
+    <Property Name="UsuarioId" Type="int" Nullable="false" />
+    <Property Name="FechaInicio" Type="date" />
+    <Property Name="FechaFin" Type="date" />
+    <Property Name="Disponible" Type="date" />
+    <Property Name="Estado" Type="varchar" MaxLength="20" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Contraseña" Type="varchar" MaxLength="30" />
+    <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Dni" Type="varchar" MaxLength="20" />
+    <Property Name="Correo" Type="varchar" MaxLength="100" />
+    <Property Name="Telefono" Type="varchar" MaxLength="15" />
+    <Property Name="Pais" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="Ciudad" Type="varchar" MaxLength="70" Nullable="false" />
+    <Property Name="ZonaHoraria" Type="varchar" MaxLength="10" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Eliminado" Type="bit" Nullable="false" />
+    <Property Name="CreacionId" Type="int" />
+    <Property Name="FechaCreacion" Type="datetime" />
+    <Property Name="ModificacionId" Type="int" />
+    <Property Name="FechaModificacion" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__Ejemplare__Libro__412EB0B6">
+    <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+    <End Role="Ejemplares" Type="Self.Ejemplares" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Libros">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Ejemplares">
+        <PropertyRef Name="LibroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Inventari__Libro__440B1D61">
+    <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+    <End Role="Inventario" Type="Self.Inventario" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Libros">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Inventario">
+        <PropertyRef Name="LibroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LibrosAut__Autor__47DBAE45">
+    <End Role="Autores" Type="Self.Autores" Multiplicity="1" />
+    <End Role="LibrosAutores" Type="Self.LibrosAutores" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Autores">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LibrosAutores">
+        <PropertyRef Name="AutorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__LibrosAut__Libro__46E78A0C">
+    <End Role="Libros" Type="Self.Libros" Multiplicity="1" />
+    <End Role="LibrosAutores" Type="Self.LibrosAutores" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Libros">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LibrosAutores">
+        <PropertyRef Name="LibroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Multas__Administ__52593CB8">
+    <End Role="Administradores" Type="Self.Administradores" Multiplicity="1" />
+    <End Role="Multas" Type="Self.Multas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Administradores">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Multas">
+        <PropertyRef Name="AdministradorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Multas__Prestamo__534D60F1">
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="1" />
+    <End Role="Multas" Type="Self.Multas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Prestamos">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Multas">
+        <PropertyRef Name="PrestamoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Prestamos__Admin__4E88ABD4">
+    <End Role="Administradores" Type="Self.Administradores" Multiplicity="1" />
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Administradores">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Prestamos">
+        <PropertyRef Name="AdministradorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Prestamos__Reser__4F7CD00D">
+    <End Role="Reservas" Type="Self.Reservas" Multiplicity="1" />
+    <End Role="Prestamos" Type="Self.Prestamos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reservas">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Prestamos">
+        <PropertyRef Name="ReservaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Reservas__Ejempl__4AB81AF0">
+    <End Role="Ejemplares" Type="Self.Ejemplares" Multiplicity="1" />
+    <End Role="Reservas" Type="Self.Reservas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ejemplares">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reservas">
+        <PropertyRef Name="EjemplarId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Reservas__Usuari__4BAC3F29">
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+    <End Role="Reservas" Type="Self.Reservas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuarios">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reservas">
+        <PropertyRef Name="UsuarioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelEFStoreContainer">
+    <EntitySet Name="Administradores" EntityType="Self.Administradores" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Autores" EntityType="Self.Autores" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ejemplares" EntityType="Self.Ejemplares" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Inventario" EntityType="Self.Inventario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Libros" EntityType="Self.Libros" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LibrosAutores" EntityType="Self.LibrosAutores" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Multas" EntityType="Self.Multas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Prestamos" EntityType="Self.Prestamos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reservas" EntityType="Self.Reservas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Ejemplare__Libro__412EB0B6" Association="Self.FK__Ejemplare__Libro__412EB0B6">
+      <End Role="Libros" EntitySet="Libros" />
+      <End Role="Ejemplares" EntitySet="Ejemplares" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Inventari__Libro__440B1D61" Association="Self.FK__Inventari__Libro__440B1D61">
+      <End Role="Libros" EntitySet="Libros" />
+      <End Role="Inventario" EntitySet="Inventario" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LibrosAut__Autor__47DBAE45" Association="Self.FK__LibrosAut__Autor__47DBAE45">
+      <End Role="Autores" EntitySet="Autores" />
+      <End Role="LibrosAutores" EntitySet="LibrosAutores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__LibrosAut__Libro__46E78A0C" Association="Self.FK__LibrosAut__Libro__46E78A0C">
+      <End Role="Libros" EntitySet="Libros" />
+      <End Role="LibrosAutores" EntitySet="LibrosAutores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Multas__Administ__52593CB8" Association="Self.FK__Multas__Administ__52593CB8">
+      <End Role="Administradores" EntitySet="Administradores" />
+      <End Role="Multas" EntitySet="Multas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Multas__Prestamo__534D60F1" Association="Self.FK__Multas__Prestamo__534D60F1">
+      <End Role="Prestamos" EntitySet="Prestamos" />
+      <End Role="Multas" EntitySet="Multas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Prestamos__Admin__4E88ABD4" Association="Self.FK__Prestamos__Admin__4E88ABD4">
+      <End Role="Administradores" EntitySet="Administradores" />
+      <End Role="Prestamos" EntitySet="Prestamos" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Prestamos__Reser__4F7CD00D" Association="Self.FK__Prestamos__Reser__4F7CD00D">
+      <End Role="Reservas" EntitySet="Reservas" />
+      <End Role="Prestamos" EntitySet="Prestamos" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Reservas__Ejempl__4AB81AF0" Association="Self.FK__Reservas__Ejempl__4AB81AF0">
+      <End Role="Ejemplares" EntitySet="Ejemplares" />
+      <End Role="Reservas" EntitySet="Reservas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Reservas__Usuari__4BAC3F29" Association="Self.FK__Reservas__Usuari__4BAC3F29">
+      <End Role="Usuarios" EntitySet="Usuarios" />
+      <End Role="Reservas" EntitySet="Reservas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

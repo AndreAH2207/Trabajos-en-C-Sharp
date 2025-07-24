@@ -1,0 +1,12 @@
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Entidades\bin\Debug\Entidades.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Entidades\obj\Debug\Entidades.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Entidades\obj\Debug\Entidades.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Entidades\bin\Debug\Entidades.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Entidades\bin\Debug\Entidades.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Entidades\obj\Debug\Entidades.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\consultas y reportes\\formresumentorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formresumentorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\inicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\presentacion\\preparacion\\formregistrarequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\preparacion\\formregistrarequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\presentacion\\preparacion\\formregistrarjugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\preparacion\\formregistrarjugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\competencia\\formregistrarresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formregistrarresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\competencia\\formestadisticasjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formestadisticasjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\negocio\\nreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\competencia\\formregistrarresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formregistrarresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\competencia\\formestadisticasjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formestadisticasjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\competencia\\formestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\competencia\\formestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\configurar fixture\\formgenerarfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\configurar fixture\\formgenerarfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\configurar fixture\\formgenerarfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\configurar fixture\\formgenerarfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\presentacion\\configurar fixture\\formregistrarinscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\configurar fixture\\formregistrarinscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\presentacion\\configurar fixture\\formregistrarinscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\configurar fixture\\formregistrarinscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\presentacion\\inicio\\formregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio\\formregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\env\u00EDo\\tf_grupo02\\tf_20211a174\\presentacion\\inicio\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\destadisticajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\destadisticajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dcancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dcancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\negocio\\ntorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\ntorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\negocio\\nequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\consultas y reportes\\formresumentorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formresumentorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\negocio\\nresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\negocio\\njugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\njugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\inicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\djugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\djugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dtorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dtorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\presentacion\\preparacion\\formregistrarcanchas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\preparacion\\formregistrarcanchas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormRegistrarInscripciones.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "RelativeToolTip": "Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:38:50.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRegistrarJugadores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Preparacion\\FormRegistrarJugadores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Preparacion\\FormRegistrarJugadores.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Preparacion\\FormRegistrarJugadores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Preparacion\\FormRegistrarJugadores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:34:20.472Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegistrarEquipos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Preparacion\\FormRegistrarEquipos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Preparacion\\FormRegistrarEquipos.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Preparacion\\FormRegistrarEquipos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Preparacion\\FormRegistrarEquipos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:34:19.736Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormRegistrarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio\\FormRegistrarUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormRegistrarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Inicio\\FormRegistrarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:34:15.587Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio\\FormMenuPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Inicio\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:34:15.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NReporte.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NReporte.cs",
+              "RelativeDocumentMoniker": "Negocio\\NReporte.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NReporte.cs",
+              "RelativeToolTip": "Negocio\\NReporte.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:33:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NUsuario.cs",
+              "RelativeDocumentMoniker": "Negocio\\NUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NUsuario.cs",
+              "RelativeToolTip": "Negocio\\NUsuario.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:22:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NTorneo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NTorneo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NTorneo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NTorneo.cs",
+              "RelativeToolTip": "Negocio\\NTorneo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:22:13.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NEquipo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NEquipo.cs",
+              "RelativeToolTip": "Negocio\\NEquipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:20:53.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormEstadisticaEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticaEquipo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormEstadisticaEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticaEquipo.cs",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormEstadisticaEquipo.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:00:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRegistrarResultados.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwBwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:00:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReportes.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:00:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NResumenEstadisticaEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NResumenEstadisticaEquipo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NResumenEstadisticaEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\NResumenEstadisticaEquipo.cs",
+              "RelativeToolTip": "Negocio\\NResumenEstadisticaEquipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:38:04.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormGenerarFixture.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "RelativeToolTip": "Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAUwI8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:40:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Njugador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\Njugador.cs",
+              "RelativeDocumentMoniker": "Negocio\\Njugador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Negocio\\Njugador.cs",
+              "RelativeToolTip": "Negocio\\Njugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:02:32.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio\\FormLogin.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormLogin.cs",
+              "RelativeToolTip": "Presentacion\\Inicio\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:03:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormEstadisticaEquipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticaEquipo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormEstadisticaEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticaEquipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormEstadisticaEquipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:03:11.871Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRegistrarResultados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormRegistrarResultados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormRegistrarResultados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:03:10.756Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormGenerarFixture.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormGenerarFixture.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Configurar Fixture\\FormGenerarFixture.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:03:09.805Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormRegistrarInscripciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:03:09.203Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio\\FormLogin.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Inicio\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Inicio\\FormLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:33:50.112Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormEstadisticasJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticasJugador.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormEstadisticasJugador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticasJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormEstadisticasJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:29:35.061Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormRegistrarCanchas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Preparacion\\FormRegistrarCanchas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Preparacion\\FormRegistrarCanchas.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02 (Final)\\TF_Grupo02\\Presentacion\\Preparacion\\FormRegistrarCanchas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\TF_Grupo02 (Final)\\TF_Grupo02\\Presentacion\\Preparacion\\FormRegistrarCanchas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:26:39.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Datos\\DUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DUsuario.cs",
+              "RelativeToolTip": "Datos\\DUsuario.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA2wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:38.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DResumenEstadisticaEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DResumenEstadisticaEquipo.cs",
+              "RelativeDocumentMoniker": "Datos\\DResumenEstadisticaEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DResumenEstadisticaEquipo.cs",
+              "RelativeToolTip": "Datos\\DResumenEstadisticaEquipo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:29.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DTorneo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DTorneo.cs",
+              "RelativeDocumentMoniker": "Datos\\DTorneo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DTorneo.cs",
+              "RelativeToolTip": "Datos\\DTorneo.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:28.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DReporte.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DReporte.cs",
+              "RelativeDocumentMoniker": "Datos\\DReporte.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DReporte.cs*",
+              "RelativeToolTip": "Datos\\DReporte.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DResultado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DResultado.cs",
+              "RelativeDocumentMoniker": "Datos\\DResultado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DResultado.cs",
+              "RelativeToolTip": "Datos\\DResultado.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DPartido.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DPartido.cs",
+              "RelativeDocumentMoniker": "Datos\\DPartido.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DPartido.cs",
+              "RelativeToolTip": "Datos\\DPartido.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwG0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DJugador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DJugador.cs",
+              "RelativeDocumentMoniker": "Datos\\DJugador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DJugador.cs",
+              "RelativeToolTip": "Datos\\DJugador.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv2oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:56:10.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DEstadisticaJugador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DEstadisticaJugador.cs",
+              "RelativeDocumentMoniker": "Datos\\DEstadisticaJugador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DEstadisticaJugador.cs",
+              "RelativeToolTip": "Datos\\DEstadisticaJugador.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:55:45.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DEquipo.cs",
+              "RelativeDocumentMoniker": "Datos\\DEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DEquipo.cs",
+              "RelativeToolTip": "Datos\\DEquipo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:55:39.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DCancha.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DCancha.cs",
+              "RelativeDocumentMoniker": "Datos\\DCancha.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Datos\\DCancha.cs",
+              "RelativeToolTip": "Datos\\DCancha.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:54:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormResumenTorneo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAIwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:14:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormResumenTorneo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormResumenTorneo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:13:52.905Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Consultas y Reportes\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:13:51.934Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormEstadisticasJugador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticasJugador.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormEstadisticasJugador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\Env\u00EDo\\TF_Grupo02\\TF_20211A174\\Presentacion\\Competencia\\FormEstadisticasJugador.cs",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormEstadisticasJugador.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAqwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:06:04.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

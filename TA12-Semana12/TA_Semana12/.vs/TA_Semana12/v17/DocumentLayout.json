@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta12-semana13\\ta_semana12\\presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB94AB1-FB49-4A70-9055-0FD627161113}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\negocio\\nproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB94AB1-FB49-4A70-9055-0FD627161113}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB94AB1-FB49-4A70-9055-0FD627161113}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\negocio\\nproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB94AB1-FB49-4A70-9055-0FD627161113}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\dproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\dproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\dproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\dproductoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\dsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\dsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB94AB1-FB49-4A70-9055-0FD627161113}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\negocio\\nsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB94AB1-FB49-4A70-9055-0FD627161113}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\presentacion\\formsupermercado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B427385-56FD-41F9-95D8-62112031BA21}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formsupermercado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\productoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\productoxsupermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\modelef.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\modelef.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\modelef.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\modelef.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FEB84509-054A-427E-A6CE-717AD479203A}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\packages.config",
+              "RelativeDocumentMoniker": "Presentacion\\packages.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\packages.config",
+              "RelativeToolTip": "Presentacion\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T07:50:24.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormPrincipal.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:47:49.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\FormPrincipal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvykAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:46:54.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSupermercado.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormSupermercado.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormSupermercado.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormSupermercado.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FormSupermercado.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:46:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Supermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\Supermercado.cs",
+              "RelativeDocumentMoniker": "Datos\\Supermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\Supermercado.cs",
+              "RelativeToolTip": "Datos\\Supermercado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:42:22.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoxSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ProductoxSupermercado.cs",
+              "RelativeDocumentMoniker": "Datos\\ProductoxSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ProductoxSupermercado.cs",
+              "RelativeToolTip": "Datos\\ProductoxSupermercado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:42:21.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModelEF.tt",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.tt",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.tt",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.tt",
+              "RelativeToolTip": "Datos\\ModelEF.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T07:42:18.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ModelEF.edmx.diagram",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.edmx.diagram",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.edmx.diagram",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.edmx.diagram",
+              "RelativeToolTip": "Datos\\ModelEF.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-24T07:42:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModelEF.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.Designer.cs",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.Designer.cs",
+              "RelativeToolTip": "Datos\\ModelEF.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:42:17.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModelEF.Context.tt",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.Context.tt",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.Context.tt",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.Context.tt",
+              "RelativeToolTip": "Datos\\ModelEF.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T07:42:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProducto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProducto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProducto.cs",
+              "RelativeToolTip": "Presentacion\\FormProducto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:42:03.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ModelEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.edmx",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.edmx",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\ModelEF.edmx [Diagram1]",
+              "RelativeToolTip": "Datos\\ModelEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-24T07:41:18.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormSupermercado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormSupermercado.cs",
+              "RelativeToolTip": "Presentacion\\FormSupermercado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:38:22.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSupermercado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormSupermercado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormSupermercado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormSupermercado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:38:17.758Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProducto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:38:15.957Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormProductoxSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProductoxSupermercado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProductoxSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProductoxSupermercado.cs",
+              "RelativeToolTip": "Presentacion\\FormProductoxSupermercado.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:21:39.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProductoxSupermercado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProductoxSupermercado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProductoxSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormProductoxSupermercado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormProductoxSupermercado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:21:37.732Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Negocio\\NSupermercado.cs",
+              "RelativeDocumentMoniker": "Negocio\\NSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Negocio\\NSupermercado.cs",
+              "RelativeToolTip": "Negocio\\NSupermercado.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:21:31.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NProductoxSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Negocio\\NProductoxSupermercado.cs",
+              "RelativeDocumentMoniker": "Negocio\\NProductoxSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Negocio\\NProductoxSupermercado.cs",
+              "RelativeToolTip": "Negocio\\NProductoxSupermercado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:21:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NProducto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Negocio\\NProducto.cs",
+              "RelativeDocumentMoniker": "Negocio\\NProducto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Negocio\\NProducto.cs",
+              "RelativeToolTip": "Negocio\\NProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:21:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\DSupermercado.cs",
+              "RelativeDocumentMoniker": "Datos\\DSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\DSupermercado.cs",
+              "RelativeToolTip": "Datos\\DSupermercado.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:20:59.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DProducto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\DProducto.cs",
+              "RelativeDocumentMoniker": "Datos\\DProducto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\DProducto.cs",
+              "RelativeToolTip": "Datos\\DProducto.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:20:50.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DProductoxSupermercado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\DProductoxSupermercado.cs",
+              "RelativeDocumentMoniker": "Datos\\DProductoxSupermercado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Datos\\DProductoxSupermercado.cs",
+              "RelativeToolTip": "Datos\\DProductoxSupermercado.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:20:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA12-Semana13\\TA_Semana12\\Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T19:11:49.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

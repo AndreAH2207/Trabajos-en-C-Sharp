@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Mecanico">
+    <Key>
+      <PropertyRef Name="MecanicoId" />
+    </Key>
+    <Property Name="MecanicoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodigoEmpleado" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NombreCompleto" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FechaCreacion" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Servicio" Relationship="Self.Servicio_Mecanico" FromRole="Mecanico" ToRole="Servicio" />
+  </EntityType>
+  <EntityType Name="Servicio">
+    <Key>
+      <PropertyRef Name="ServicioId" />
+    </Key>
+    <Property Name="ServicioId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoServicio" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FechaHoraServicio" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Atendido" Type="Boolean" Nullable="false" />
+    <Property Name="MecanicoId" Type="Int32" Nullable="false" />
+    <Property Name="VehiculoId" Type="Int32" Nullable="false" />
+    <Property Name="FechaCreacion" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Mecanico" Relationship="Self.Servicio_Mecanico" FromRole="Servicio" ToRole="Mecanico" />
+    <NavigationProperty Name="Vehiculo" Relationship="Self.Servicio_Vehiculo" FromRole="Servicio" ToRole="Vehiculo" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Vehiculo">
+    <Key>
+      <PropertyRef Name="VehiculoId" />
+    </Key>
+    <Property Name="VehiculoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Placa" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Marca" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FechaCreacion" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <Property Name="Eliminado" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Servicio" Relationship="Self.Servicio_Vehiculo" FromRole="Vehiculo" ToRole="Servicio" />
+  </EntityType>
+  <Association Name="Servicio_Mecanico">
+    <End Role="Mecanico" Type="Self.Mecanico" Multiplicity="1" />
+    <End Role="Servicio" Type="Self.Servicio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mecanico">
+        <PropertyRef Name="MecanicoId" />
+      </Principal>
+      <Dependent Role="Servicio">
+        <PropertyRef Name="MecanicoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Servicio_Vehiculo">
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="1" />
+    <End Role="Servicio" Type="Self.Servicio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vehiculo">
+        <PropertyRef Name="VehiculoId" />
+      </Principal>
+      <Dependent Role="Servicio">
+        <PropertyRef Name="VehiculoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BDEFEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Mecanico" EntityType="Self.Mecanico" />
+    <EntitySet Name="Servicio" EntityType="Self.Servicio" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Vehiculo" EntityType="Self.Vehiculo" />
+    <AssociationSet Name="Servicio_Mecanico" Association="Self.Servicio_Mecanico">
+      <End Role="Mecanico" EntitySet="Mecanico" />
+      <End Role="Servicio" EntitySet="Servicio" />
+    </AssociationSet>
+    <AssociationSet Name="Servicio_Vehiculo" Association="Self.Servicio_Vehiculo">
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+      <End Role="Servicio" EntitySet="Servicio" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

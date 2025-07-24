@@ -1,0 +1,12 @@
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\Negocio.dll
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\Negocio.pdb
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\EntityFramework.dll
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\Datos.pdb
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\Datos.dll.config
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\bin\Debug\EntityFramework.xml
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\obj\Debug\Negocio.dll
+D:\Fundamentos de sistema de la informacion\Trabajo Final 2\TF_Grupo02\TF_Grupo02\Negocio\obj\Debug\Negocio.pdb

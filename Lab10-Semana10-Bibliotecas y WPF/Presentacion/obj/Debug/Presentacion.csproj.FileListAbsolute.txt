@@ -1,0 +1,31 @@
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Presentacion\obj\Debug\WindowConcesionario.g.cs
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Presentacion\obj\Debug\App.g.cs
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\WindowConcesionario.g.cs
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\App.g.cs
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\WindowPrincipal.g.cs
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\WindowVehiculo.g.cs
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Presentacion.exe
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Presentacion.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Entidades.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Negocio.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Entidades.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Negocio.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\bin\Debug\Datos.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\WindowConcesionario.baml
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\WindowPrincipal.baml
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\WindowVehiculo.baml
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.g.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.exe
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Presentacion\obj\Debug\Presentacion.pdb

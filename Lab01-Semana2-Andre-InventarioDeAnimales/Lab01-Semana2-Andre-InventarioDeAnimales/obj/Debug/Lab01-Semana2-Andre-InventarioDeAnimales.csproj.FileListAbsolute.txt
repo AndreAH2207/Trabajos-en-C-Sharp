@@ -1,0 +1,10 @@
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\bin\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.exe.config
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\bin\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.exe
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\bin\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01_Semana2_Andre_InventarioDeAnimales.Properties.Resources.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.csproj.GenerateResource.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.exe
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01-Semana2-Andre-InventarioDeAnimales.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab01-Semana2-Andre-InventarioDeAnimales\Lab01-Semana2-Andre-InventarioDeAnimales\obj\Debug\Lab01_Semana2_Andre_InventarioDeAnimales.FormMain.resources

@@ -1,0 +1,22 @@
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\bin\Debug\Negocio.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\bin\Debug\Datos.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\bin\Debug\Entidades.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\bin\Debug\Datos.pdb
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\obj\Debug\Negocio.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Negocio\obj\Debug\Negocio.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\bin\Debug\Negocio.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\bin\Debug\Negocio.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\bin\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\bin\Debug\Entidades.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\bin\Debug\Datos.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\bin\Debug\Entidades.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\obj\Debug\Negocio.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Negocio\obj\Debug\Negocio.pdb

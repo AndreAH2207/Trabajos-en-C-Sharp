@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\trabajo final 2\\tf_grupo02\\tf_grupo02\\presentacion\\competencia\\formregistrarresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\competencia\\formregistrarresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\negocio\\nestadisticajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nestadisticajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\presentacion\\configurar fixture\\formgenerarfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\configurar fixture\\formgenerarfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\negocio\\npartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\npartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\datos\\dpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dpartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\datos\\dtorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dtorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\presentacion\\consultas y reportes\\formresumentorneofinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formresumentorneofinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\presentacion\\configurar fixture\\formregistrarinscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\configurar fixture\\formregistrarinscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\datos\\dresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24A32DE-0958-4F7C-956C-78528A3CCFAE}|Datos\\Datos.csproj|solutionrelative:datos\\dresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\negocio\\nresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nresumenestadisticaequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\presentacion\\consultas y reportes\\formresumentorneofinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formresumentorneofinalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultas y reportes\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\negocio\\nreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegistrarResultados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Competencia\\FormRegistrarResultados.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Competencia\\FormRegistrarResultados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Competencia\\FormRegistrarResultados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:23:10.119Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NReporte.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NReporte.cs",
+              "RelativeDocumentMoniker": "Negocio\\NReporte.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NReporte.cs",
+              "RelativeToolTip": "Negocio\\NReporte.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:58:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DResumenEstadisticaEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DResumenEstadisticaEquipo.cs",
+              "RelativeDocumentMoniker": "Datos\\DResumenEstadisticaEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DResumenEstadisticaEquipo.cs",
+              "RelativeToolTip": "Datos\\DResumenEstadisticaEquipo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:56:48.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Datos\\DUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DUsuario.cs",
+              "RelativeToolTip": "Datos\\DUsuario.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:56:47.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTorneo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DTorneo.cs",
+              "RelativeDocumentMoniker": "Datos\\DTorneo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DTorneo.cs",
+              "RelativeToolTip": "Datos\\DTorneo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:56:46.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormReportes.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAzwCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:55:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NEstadisticaJugador.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NEstadisticaJugador.cs",
+              "RelativeDocumentMoniker": "Negocio\\NEstadisticaJugador.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NEstadisticaJugador.cs",
+              "RelativeToolTip": "Negocio\\NEstadisticaJugador.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:54:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NResumenEstadisticaEquipo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NResumenEstadisticaEquipo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NResumenEstadisticaEquipo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NResumenEstadisticaEquipo.cs",
+              "RelativeToolTip": "Negocio\\NResumenEstadisticaEquipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:54:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPartido.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NPartido.cs",
+              "RelativeDocumentMoniker": "Negocio\\NPartido.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NPartido.cs",
+              "RelativeToolTip": "Negocio\\NPartido.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:40:05.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DPartido.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DPartido.cs",
+              "RelativeDocumentMoniker": "Datos\\DPartido.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Datos\\DPartido.cs",
+              "RelativeToolTip": "Datos\\DPartido.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:57.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormResumenTorneoFinalizado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:37.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormResumenTorneoFinalizado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormResumenTorneoFinalizado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:36.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Consultas y Reportes\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Consultas y Reportes\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Consultas y Reportes\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:33.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRegistrarInscripciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Configurar Fixture\\FormRegistrarInscripciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGenerarFixture.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Configurar Fixture\\FormGenerarFixture.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Presentacion\\Configurar Fixture\\FormGenerarFixture.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Configurar Fixture\\FormGenerarFixture.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:39:29.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NUsuario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NUsuario.cs",
+              "RelativeDocumentMoniker": "Negocio\\NUsuario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Trabajo Final 2\\TF_Grupo02\\TF_Grupo02\\Negocio\\NUsuario.cs",
+              "RelativeToolTip": "Negocio\\NUsuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:24:35.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

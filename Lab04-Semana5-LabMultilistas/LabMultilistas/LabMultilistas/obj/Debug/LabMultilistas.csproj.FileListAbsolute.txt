@@ -1,0 +1,25 @@
+D:\Laboratorios\LabMultilistas\LabMultilistas\bin\Debug\LabMultilistas.exe.config
+D:\Laboratorios\LabMultilistas\LabMultilistas\bin\Debug\LabMultilistas.exe
+D:\Laboratorios\LabMultilistas\LabMultilistas\bin\Debug\LabMultilistas.pdb
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.csproj.AssemblyReference.cache
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormArtista.resources
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormPrincipal.resources
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.Properties.Resources.resources
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.csproj.GenerateResource.cache
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.csproj.CoreCompileInputs.cache
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.exe
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.pdb
+D:\Laboratorios\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormCuadro.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\bin\Debug\LabMultilistas.exe.config
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\bin\Debug\LabMultilistas.exe
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\bin\Debug\LabMultilistas.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormArtista.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormCuadro.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormPrincipal.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.Properties.Resources.resources
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.csproj.GenerateResource.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.exe
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\Lab04-Semana5-LabMultilistas\LabMultilistas\LabMultilistas\obj\Debug\LabMultilistas.FormReportes.resources

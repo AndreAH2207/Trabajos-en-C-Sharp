@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\lab02-semana3-sistemademantenimientodecines\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|solutionrelative:lab02-semana3-sistemademantenimientodecines\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab02-semana3-sistemademantenimientodecines\\lab02-semana3-sistemademantenimientodecines\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|solutionrelative:lab02-semana3-sistemademantenimientodecines\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\lab02-semana3-sistemademantenimientodecines\\repositories\\cinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|solutionrelative:lab02-semana3-sistemademantenimientodecines\\repositories\\cinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\lab02-semana3-sistemademantenimientodecines\\entities\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|solutionrelative:lab02-semana3-sistemademantenimientodecines\\entities\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\lab02-semana3-sistemademantenimientodecines\\services\\cineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|solutionrelative:lab02-semana3-sistemademantenimientodecines\\services\\cineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\lab02-semana3-sistemademantenimientodecines\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3724850-3B61-4BE1-9743-A6E79733C753}|Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines.csproj|solutionrelative:lab02-semana3-sistemademantenimientodecines\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.Designer.cs",
+              "RelativeToolTip": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.Designer.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAnwBABAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:45:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs",
+              "RelativeDocumentMoniker": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs",
+              "RelativeToolTip": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAMwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:45:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CineServices.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Services\\CineServices.cs",
+              "RelativeDocumentMoniker": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\Services\\CineServices.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Services\\CineServices.cs",
+              "RelativeToolTip": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\Services\\CineServices.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:33:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CineRepository.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Repositories\\CineRepository.cs",
+              "RelativeDocumentMoniker": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\Repositories\\CineRepository.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Repositories\\CineRepository.cs",
+              "RelativeToolTip": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\Repositories\\CineRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:17:47.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Entities\\Cine.cs",
+              "RelativeDocumentMoniker": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\Entities\\Cine.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Entities\\Cine.cs",
+              "RelativeToolTip": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\Entities\\Cine.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:13:37.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs",
+              "RelativeDocumentMoniker": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Lab02-Semana3-SistemaDeMantenimientoDeCines\\FormMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:15:38.375Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

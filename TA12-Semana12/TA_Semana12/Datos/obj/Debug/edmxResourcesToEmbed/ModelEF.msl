@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelEFStoreContainer" CdmEntityContainer="BDEFEntities">
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="ModelEF.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Categoria" ColumnName="Categoria" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductoxSupermercado">
+      <EntityTypeMapping TypeName="ModelEF.ProductoxSupermercado">
+        <MappingFragment StoreEntitySet="ProductoxSupermercado">
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="SupermercadoId" ColumnName="SupermercadoId" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Supermercado">
+      <EntityTypeMapping TypeName="ModelEF.Supermercado">
+        <MappingFragment StoreEntitySet="Supermercado">
+          <ScalarProperty Name="SupermercadoId" ColumnName="SupermercadoId" />
+          <ScalarProperty Name="NombreReferencial" ColumnName="NombreReferencial" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

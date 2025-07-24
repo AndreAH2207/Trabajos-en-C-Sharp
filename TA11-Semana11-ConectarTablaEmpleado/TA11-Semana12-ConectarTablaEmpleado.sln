@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{32CF88E5-58B5-411B-A16C-1EB6ECD58AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{456C19F7-1913-49D5-A809-EA9D162910DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{AA015AD4-ACB2-4650-94A8-0D648DF87F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CF88E5-58B5-411B-A16C-1EB6ECD58AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CF88E5-58B5-411B-A16C-1EB6ECD58AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CF88E5-58B5-411B-A16C-1EB6ECD58AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CF88E5-58B5-411B-A16C-1EB6ECD58AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456C19F7-1913-49D5-A809-EA9D162910DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456C19F7-1913-49D5-A809-EA9D162910DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456C19F7-1913-49D5-A809-EA9D162910DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456C19F7-1913-49D5-A809-EA9D162910DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA015AD4-ACB2-4650-94A8-0D648DF87F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA015AD4-ACB2-4650-94A8-0D648DF87F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA015AD4-ACB2-4650-94A8-0D648DF87F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA015AD4-ACB2-4650-94A8-0D648DF87F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41388255-BF08-4088-91C7-9254A2009C29}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\formcuadro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formcuadro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab04-semana5-labmultilistas\\labmultilistas\\labmultilistas\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab04-semana5-labmultilistas\\labmultilistas\\labmultilistas\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab04-semana5-labmultilistas\\labmultilistas\\labmultilistas\\formreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\services\\artistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\services\\artistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\repositories\\artistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\repositories\\artistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\repositories\\cuadrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\repositories\\cuadrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\entities\\cuadro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\entities\\cuadro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\formartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\entities\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\entities\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\services\\cuadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\services\\cuadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab04-semana5-labmultilistas\\labmultilistas\\labmultilistas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\formartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\labmultilistas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23529A36-9A47-4C26-B42B-E37722A45586}|LabMultilistas\\LabMultilistas.csproj|solutionrelative:labmultilistas\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReportes.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormReportes.Designer.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormReportes.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormReportes.Designer.cs",
+              "RelativeToolTip": "LabMultilistas\\FormReportes.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAjwG0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:35:26.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\App.config",
+              "RelativeDocumentMoniker": "LabMultilistas\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\App.config",
+              "RelativeToolTip": "LabMultilistas\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-05T05:17:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormReportes.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormReportes.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormReportes.cs",
+              "RelativeToolTip": "LabMultilistas\\FormReportes.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwHUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:50:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\entities\\Artista.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\entities\\Artista.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\entities\\Artista.cs",
+              "RelativeToolTip": "LabMultilistas\\entities\\Artista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:34:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cuadro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\entities\\Cuadro.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\entities\\Cuadro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\entities\\Cuadro.cs",
+              "RelativeToolTip": "LabMultilistas\\entities\\Cuadro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:34:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormReportes.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LabMultilistas\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:34:37.77Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtistaService.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\services\\ArtistaService.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\services\\ArtistaService.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\services\\ArtistaService.cs",
+              "RelativeToolTip": "LabMultilistas\\services\\ArtistaService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:25:29.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CuadroService.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\services\\CuadroService.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\services\\CuadroService.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\services\\CuadroService.cs",
+              "RelativeToolTip": "LabMultilistas\\services\\CuadroService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:25:28.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCuadro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormCuadro.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormCuadro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormCuadro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LabMultilistas\\FormCuadro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:25:14.18Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormPrincipal.cs",
+              "RelativeToolTip": "LabMultilistas\\FormPrincipal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:25:11.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormArtista.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormArtista.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormArtista.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormArtista.cs",
+              "RelativeToolTip": "LabMultilistas\\FormArtista.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIA4wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:50.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormArtista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormArtista.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormArtista.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormArtista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LabMultilistas\\FormArtista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:48.626Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\FormPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LabMultilistas\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:46.131Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuadroRepository.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\repositories\\CuadroRepository.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\repositories\\CuadroRepository.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\repositories\\CuadroRepository.cs",
+              "RelativeToolTip": "LabMultilistas\\repositories\\CuadroRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:20:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtistaRepository.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\repositories\\ArtistaRepository.cs",
+              "RelativeDocumentMoniker": "LabMultilistas\\repositories\\ArtistaRepository.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab04-Semana5-LabMultilistas\\LabMultilistas\\LabMultilistas\\repositories\\ArtistaRepository.cs",
+              "RelativeToolTip": "LabMultilistas\\repositories\\ArtistaRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA2wDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:20:08.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

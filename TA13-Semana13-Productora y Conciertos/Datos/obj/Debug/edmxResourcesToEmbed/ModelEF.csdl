@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Concierto">
+    <Key>
+      <PropertyRef Name="IdConcierto" />
+    </Key>
+    <Property Name="IdConcierto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdProductora" Type="Int32" />
+    <Property Name="Descripcion" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Fecha" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Productora" Relationship="Self.FK_Concierto_Productora" FromRole="Concierto" ToRole="Productora" />
+  </EntityType>
+  <EntityType Name="Productora">
+    <Key>
+      <PropertyRef Name="IdProductora" />
+    </Key>
+    <Property Name="IdProductora" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreProductora" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Name="Representante" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Name="CantAmonestaciones" Type="Int32" />
+    <NavigationProperty Name="Concierto" Relationship="Self.FK_Concierto_Productora" FromRole="Productora" ToRole="Concierto" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Concierto_Productora">
+    <End Role="Productora" Type="Self.Productora" Multiplicity="0..1" />
+    <End Role="Concierto" Type="Self.Concierto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Productora">
+        <PropertyRef Name="IdProductora" />
+      </Principal>
+      <Dependent Role="Concierto">
+        <PropertyRef Name="IdProductora" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BDEFEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Concierto" EntityType="Self.Concierto" />
+    <EntitySet Name="Productora" EntityType="Self.Productora" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Concierto_Productora" Association="Self.FK_Concierto_Productora">
+      <End Role="Productora" EntitySet="Productora" />
+      <End Role="Concierto" EntitySet="Concierto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

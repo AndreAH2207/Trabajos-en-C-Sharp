@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="ProductoId" />
+    </Key>
+    <Property Name="ProductoId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="80" Nullable="false" />
+    <Property Name="Categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Marca" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Precio" Type="decimal" Precision="8" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductoxSupermercado">
+    <Key>
+      <PropertyRef Name="ProductoId" />
+      <PropertyRef Name="SupermercadoId" />
+    </Key>
+    <Property Name="ProductoId" Type="int" Nullable="false" />
+    <Property Name="SupermercadoId" Type="int" Nullable="false" />
+    <Property Name="Stock" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Supermercado">
+    <Key>
+      <PropertyRef Name="SupermercadoId" />
+    </Key>
+    <Property Name="SupermercadoId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreReferencial" Type="nvarchar" MaxLength="80" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar" MaxLength="120" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ProductoxSupermercado_Producto">
+    <End Role="Producto" Type="Self.Producto" Multiplicity="1" />
+    <End Role="ProductoxSupermercado" Type="Self.ProductoxSupermercado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="ProductoId" />
+      </Principal>
+      <Dependent Role="ProductoxSupermercado">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductoxSupermercado_Supermercado">
+    <End Role="Supermercado" Type="Self.Supermercado" Multiplicity="1" />
+    <End Role="ProductoxSupermercado" Type="Self.ProductoxSupermercado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supermercado">
+        <PropertyRef Name="SupermercadoId" />
+      </Principal>
+      <Dependent Role="ProductoxSupermercado">
+        <PropertyRef Name="SupermercadoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelEFStoreContainer">
+    <EntitySet Name="Producto" EntityType="Self.Producto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductoxSupermercado" EntityType="Self.ProductoxSupermercado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Supermercado" EntityType="Self.Supermercado" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ProductoxSupermercado_Producto" Association="Self.FK_ProductoxSupermercado_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="ProductoxSupermercado" EntitySet="ProductoxSupermercado" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductoxSupermercado_Supermercado" Association="Self.FK_ProductoxSupermercado_Supermercado">
+      <End Role="Supermercado" EntitySet="Supermercado" />
+      <End Role="ProductoxSupermercado" EntitySet="ProductoxSupermercado" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

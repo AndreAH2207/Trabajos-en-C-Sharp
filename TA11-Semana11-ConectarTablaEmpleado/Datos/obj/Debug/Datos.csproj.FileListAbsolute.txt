@@ -1,0 +1,12 @@
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\Datos.dll.config
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\Datos.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\EntityFramework.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\EntityFramework.xml
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\obj\Debug\Datos.csproj.Up2Date
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\obj\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA11-Semana12-ConectarTablaEmpleado\Datos\obj\Debug\Datos.pdb

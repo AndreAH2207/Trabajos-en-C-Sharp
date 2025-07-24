@@ -1,0 +1,18 @@
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\bin\Debug\Datos.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\bin\Debug\Datos.pdb
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\bin\Debug\Entidades.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\bin\Debug\Entidades.pdb
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\obj\Debug\Datos.dll
+C:\Users\ISMAEL\Desktop\tareas funda\TA_Sem10\Datos\obj\Debug\Datos.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\bin\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\bin\Debug\Datos.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\bin\Debug\Entidades.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\bin\Debug\Entidades.pdb
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\obj\Debug\Datos.csproj.Up2Date
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\obj\Debug\Datos.dll
+D:\Fundamentos de sistema de la informacion\Tareas Academicas 2\TA_Sem10\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formproductora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproductora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formconcierto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formconcierto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878331C7-447D-47AE-A158-AF35F9A42A82}|Negocio\\Negocio.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\negocio\\nproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878331C7-447D-47AE-A158-AF35F9A42A82}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878331C7-447D-47AE-A158-AF35F9A42A82}|Negocio\\Negocio.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\negocio\\nconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878331C7-447D-47AE-A158-AF35F9A42A82}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\dproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\dproductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\dconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\dconcierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\concierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\concierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D5BC3B3A-4BC6-421B-B5AF-FA0C5024B2D2}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\ta - semana 13 - grupo 02 - productora y conciertos\\presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6527BAC5-16FE-4C1E-8405-92BC91ACBFD3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProductora.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormProductora.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProductora.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormProductora.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FormProductora.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:23:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProductora.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormProductora.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProductora.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormProductora.cs",
+              "RelativeToolTip": "Presentacion\\FormProductora.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:23:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormConcierto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormConcierto.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormConcierto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormConcierto.cs",
+              "RelativeToolTip": "Presentacion\\FormConcierto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:21:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormConcierto.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormConcierto.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormConcierto.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormConcierto.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FormConcierto.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAjwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:21:22.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Presentacion\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\App.config",
+              "RelativeToolTip": "Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-30T19:17:49.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Productora.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\Productora.cs",
+              "RelativeDocumentMoniker": "Datos\\Productora.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\Productora.cs",
+              "RelativeToolTip": "Datos\\Productora.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:35:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelEF.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\ModelEF.cs",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\ModelEF.cs",
+              "RelativeToolTip": "Datos\\ModelEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:35:57.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Concierto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\Concierto.cs",
+              "RelativeDocumentMoniker": "Datos\\Concierto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\Concierto.cs",
+              "RelativeToolTip": "Datos\\Concierto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:35:56.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModelEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\ModelEF.edmx",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.edmx",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\ModelEF.edmx [Diagram1]",
+              "RelativeToolTip": "Datos\\ModelEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-30T18:32:04.258Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\App.config",
+              "RelativeDocumentMoniker": "Datos\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\App.config",
+              "RelativeToolTip": "Datos\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-30T18:30:01.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:28:58.068Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormConcierto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormConcierto.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormConcierto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormConcierto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormConcierto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:28:44.942Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NProductora.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Negocio\\NProductora.cs",
+              "RelativeDocumentMoniker": "Negocio\\NProductora.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Negocio\\NProductora.cs",
+              "RelativeToolTip": "Negocio\\NProductora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:26:42.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NConcierto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Negocio\\NConcierto.cs",
+              "RelativeDocumentMoniker": "Negocio\\NConcierto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Negocio\\NConcierto.cs",
+              "RelativeToolTip": "Negocio\\NConcierto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:26:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DConcierto.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\DConcierto.cs",
+              "RelativeDocumentMoniker": "Datos\\DConcierto.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\DConcierto.cs",
+              "RelativeToolTip": "Datos\\DConcierto.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:26:18.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DProductora.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\DProductora.cs",
+              "RelativeDocumentMoniker": "Datos\\DProductora.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Datos\\DProductora.cs",
+              "RelativeToolTip": "Datos\\DProductora.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:26:08.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProductora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormProductora.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormProductora.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\TA - Semana 13 - Grupo 02 - Productora y Conciertos\\Presentacion\\FormProductora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormProductora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:25:42.165Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

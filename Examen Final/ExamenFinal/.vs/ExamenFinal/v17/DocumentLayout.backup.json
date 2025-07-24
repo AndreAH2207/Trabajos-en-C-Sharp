@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\presentacion\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\datos\\dreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|solutionrelative:datos\\dreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\negocio\\nreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\negocio\\nmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\examen final\\examenfinal\\presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\datos\\dservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|solutionrelative:datos\\dservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\datos\\dmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|solutionrelative:datos\\dmecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\datos\\dvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|solutionrelative:datos\\dvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\examen final\\examenfinal\\presentacion\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\negocio\\nservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\negocio\\nvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CC0A32-3575-4E30-8BE0-5E931D914D3E}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\examen final\\examenfinal\\presentacion\\formservicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formservicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{816BDE8F-C187-44FE-9086-75463B1FEB30}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BC1AD23-E9EB-4FB4-AD4F-ED86D087147C}|Datos\\Datos.csproj|solutionrelative:datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReportes.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormReportes.cs",
+              "RelativeToolTip": "Presentacion\\FormReportes.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:29:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormServicio.Designer.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormServicio.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormServicio.Designer.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormServicio.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FormServicio.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAEwMEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:28:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormServicio.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormServicio.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormServicio.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormServicio.cs",
+              "RelativeToolTip": "Presentacion\\FormServicio.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:30:19.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Presentacion\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\App.config",
+              "RelativeToolTip": "Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-15T06:35:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\App.config",
+              "RelativeDocumentMoniker": "Datos\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\App.config",
+              "RelativeToolTip": "Datos\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-15T06:35:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\ModelEF.edmx",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.edmx",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\ModelEF.edmx [Diagram1]",
+              "RelativeToolTip": "Datos\\ModelEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-07-15T06:35:14.56Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:33:36.251Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NServicio.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\NServicio.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NServicio.cs",
+              "RelativeToolTip": "Negocio\\NServicio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:29:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NVehiculo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NVehiculo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NVehiculo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NVehiculo.cs",
+              "RelativeToolTip": "Negocio\\NVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:29:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NReporte.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NReporte.cs",
+              "RelativeDocumentMoniker": "Negocio\\NReporte.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NReporte.cs",
+              "RelativeToolTip": "Negocio\\NReporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:29:20.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NMecanico.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NMecanico.cs",
+              "RelativeDocumentMoniker": "Negocio\\NMecanico.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Negocio\\NMecanico.cs",
+              "RelativeToolTip": "Negocio\\NMecanico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:29:14.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DReporte.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DReporte.cs",
+              "RelativeDocumentMoniker": "Datos\\DReporte.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DReporte.cs",
+              "RelativeToolTip": "Datos\\DReporte.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:29:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DVehiculo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DVehiculo.cs",
+              "RelativeDocumentMoniker": "Datos\\DVehiculo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DVehiculo.cs",
+              "RelativeToolTip": "Datos\\DVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:28:46.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DServicio.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DServicio.cs",
+              "RelativeDocumentMoniker": "Datos\\DServicio.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DServicio.cs",
+              "RelativeToolTip": "Datos\\DServicio.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:28:38.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DMecanico.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DMecanico.cs",
+              "RelativeDocumentMoniker": "Datos\\DMecanico.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Datos\\DMecanico.cs",
+              "RelativeToolTip": "Datos\\DMecanico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:28:29.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormServicio.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormServicio.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Examen Final\\ExamenFinal\\Presentacion\\FormServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:27:52.567Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

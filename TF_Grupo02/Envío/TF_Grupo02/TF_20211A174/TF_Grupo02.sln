@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{E24A32DE-0958-4F7C-956C-78528A3CCFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24A32DE-0958-4F7C-956C-78528A3CCFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24A32DE-0958-4F7C-956C-78528A3CCFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24A32DE-0958-4F7C-956C-78528A3CCFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24A32DE-0958-4F7C-956C-78528A3CCFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565B03AC-15CA-4798-9DCD-CFEADDBECF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E22481-9FAC-43A1-9AC5-A4F6B0E33D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B6ED2D-162F-4369-BC2F-61DC9839E835}
+	EndGlobalSection
+EndGlobal

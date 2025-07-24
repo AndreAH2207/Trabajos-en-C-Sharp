@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2F48C0-E1C2-43CA-8413-F92E57BC4A28}|Negocio\\Negocio.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\pc2_practica\\negocio\\nempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2F48C0-E1C2-43CA-8413-F92E57BC4A28}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2F48C0-E1C2-43CA-8413-F92E57BC4A28}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\negocio\\nafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2F48C0-E1C2-43CA-8413-F92E57BC4A28}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\dempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\dempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\dretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\dretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\presentacion\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\dafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\dafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\retiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\afp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\afp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{151CC919-78A8-4CCC-8FA5-D222AC9BE70F}|Datos\\Datos.csproj|solutionrelative:datos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\presentacion\\formretiros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formretiros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\presentacion\\formafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAE3B8D6-EF88-40F0-9EB1-54252B8A3186}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2F48C0-E1C2-43CA-8413-F92E57BC4A28}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\negocio\\nretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2F48C0-E1C2-43CA-8413-F92E57BC4A28}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\App.config",
+              "RelativeDocumentMoniker": "Datos\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\App.config",
+              "RelativeToolTip": "Datos\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T04:18:22.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Retiro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\Retiro.cs",
+              "RelativeDocumentMoniker": "Datos\\Retiro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\Retiro.cs",
+              "RelativeToolTip": "Datos\\Retiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:24:51.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelEF.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\ModelEF.cs",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\ModelEF.cs",
+              "RelativeToolTip": "Datos\\ModelEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:24:50.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\Empleado.cs",
+              "RelativeDocumentMoniker": "Datos\\Empleado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\Empleado.cs",
+              "RelativeToolTip": "Datos\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:24:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AFP.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\AFP.cs",
+              "RelativeDocumentMoniker": "Datos\\AFP.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\AFP.cs",
+              "RelativeToolTip": "Datos\\AFP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:24:49.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\ModelEF.edmx",
+              "RelativeDocumentMoniker": "Datos\\ModelEF.edmx",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\ModelEF.edmx [Diagram1]",
+              "RelativeToolTip": "Datos\\ModelEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-23T19:24:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Presentacion\\App.config",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\App.config",
+              "RelativeToolTip": "Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-23T19:21:27.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormReportes.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:21:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormRetiros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormRetiros.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormRetiros.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormRetiros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormRetiros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormEmpleados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormEmpleados.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:20.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAFP.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormAFP.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormAFP.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormAFP.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormAFP.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:19:54.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NRetiro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Negocio\\NRetiro.cs",
+              "RelativeDocumentMoniker": "Negocio\\NRetiro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Negocio\\NRetiro.cs",
+              "RelativeToolTip": "Negocio\\NRetiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:15:22.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NEmpleado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Negocio\\NEmpleado.cs",
+              "RelativeDocumentMoniker": "Negocio\\NEmpleado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Negocio\\NEmpleado.cs",
+              "RelativeToolTip": "Negocio\\NEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:15:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NAFP.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Negocio\\NAFP.cs",
+              "RelativeDocumentMoniker": "Negocio\\NAFP.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Negocio\\NAFP.cs",
+              "RelativeToolTip": "Negocio\\NAFP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:15:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DEmpleado.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\DEmpleado.cs",
+              "RelativeDocumentMoniker": "Datos\\DEmpleado.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\DEmpleado.cs",
+              "RelativeToolTip": "Datos\\DEmpleado.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:14:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DRetiro.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\DRetiro.cs",
+              "RelativeDocumentMoniker": "Datos\\DRetiro.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\DRetiro.cs",
+              "RelativeToolTip": "Datos\\DRetiro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:14:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAFP.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\DAFP.cs",
+              "RelativeDocumentMoniker": "Datos\\DAFP.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Datos\\DAFP.cs",
+              "RelativeToolTip": "Datos\\DAFP.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:14:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormPrincipal.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\PC2_Practica\\Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:14:13.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

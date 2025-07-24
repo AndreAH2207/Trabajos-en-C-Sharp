@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D13BD1CB-9D21-47B1-927C-92C9B49AC133}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\datos\\dvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13BD1CB-9D21-47B1-927C-92C9B49AC133}|Datos\\Datos.csproj|solutionrelative:datos\\dvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC46728-EB81-482C-8B6B-0D7717B283C0}|Entidades\\Entidades.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\entidades\\econcesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC46728-EB81-482C-8B6B-0D7717B283C0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\econcesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|d:\\fundamentos de sistema de la informacion\\tareas academicas 2\\lab10-semana10-bibliotecas y wpf\\presentacion\\windowconcesionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowconcesionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\presentacion\\windowvehiculo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowvehiculo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\presentacion\\windowprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\presentacion\\windowconcesionario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowconcesionario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9709E9-A6DE-4CC8-8912-6AD3E70C31DA}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\negocio\\nconcesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9709E9-A6DE-4CC8-8912-6AD3E70C31DA}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nconcesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC46728-EB81-482C-8B6B-0D7717B283C0}|Entidades\\Entidades.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\entidades\\evehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC46728-EB81-482C-8B6B-0D7717B283C0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\evehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\presentacion\\windowvehiculo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowvehiculo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9709E9-A6DE-4CC8-8912-6AD3E70C31DA}|Negocio\\Negocio.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\negocio\\nvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9709E9-A6DE-4CC8-8912-6AD3E70C31DA}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13BD1CB-9D21-47B1-927C-92C9B49AC133}|Datos\\Datos.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\datos\\dconcesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13BD1CB-9D21-47B1-927C-92C9B49AC133}|Datos\\Datos.csproj|solutionrelative:datos\\dconcesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\presentacion\\windowprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\presentacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50185FA0-672C-4DE3-A6CF-4AC78733E0E6}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\App.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\App.xaml",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\App.xaml",
+              "RelativeToolTip": "Presentacion\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T22:17:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WindowPrincipal.xaml.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowPrincipal.xaml.cs",
+              "RelativeToolTip": "Presentacion\\WindowPrincipal.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:50:45.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EConcesionario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Entidades\\EConcesionario.cs",
+              "RelativeDocumentMoniker": "Entidades\\EConcesionario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Entidades\\EConcesionario.cs",
+              "RelativeToolTip": "Entidades\\EConcesionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:35:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DConcesionario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Datos\\DConcesionario.cs",
+              "RelativeDocumentMoniker": "Datos\\DConcesionario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Datos\\DConcesionario.cs",
+              "RelativeToolTip": "Datos\\DConcesionario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:33:07.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NConcesionario.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Negocio\\NConcesionario.cs",
+              "RelativeDocumentMoniker": "Negocio\\NConcesionario.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Negocio\\NConcesionario.cs",
+              "RelativeToolTip": "Negocio\\NConcesionario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:30:07.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NVehiculo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Negocio\\NVehiculo.cs",
+              "RelativeDocumentMoniker": "Negocio\\NVehiculo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Negocio\\NVehiculo.cs",
+              "RelativeToolTip": "Negocio\\NVehiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:30:06.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EVehiculo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Entidades\\EVehiculo.cs",
+              "RelativeDocumentMoniker": "Entidades\\EVehiculo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Entidades\\EVehiculo.cs",
+              "RelativeToolTip": "Entidades\\EVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:29:38.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowVehiculo.xaml.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowVehiculo.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WindowVehiculo.xaml.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowVehiculo.xaml.cs",
+              "RelativeToolTip": "Presentacion\\WindowVehiculo.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:25:32.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowConcesionario.xaml.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowConcesionario.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WindowConcesionario.xaml.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowConcesionario.xaml.cs",
+              "RelativeToolTip": "Presentacion\\WindowConcesionario.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:24:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowVehiculo.xaml",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowVehiculo.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WindowVehiculo.xaml",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowVehiculo.xaml",
+              "RelativeToolTip": "Presentacion\\WindowVehiculo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T20:23:30.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowConcesionario.xaml",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowConcesionario.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WindowConcesionario.xaml",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowConcesionario.xaml",
+              "RelativeToolTip": "Presentacion\\WindowConcesionario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T20:23:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowPrincipal.xaml",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowPrincipal.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WindowPrincipal.xaml",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Presentacion\\WindowPrincipal.xaml",
+              "RelativeToolTip": "Presentacion\\WindowPrincipal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T20:21:24.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DVehiculo.cs",
+              "DocumentMoniker": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Datos\\DVehiculo.cs",
+              "RelativeDocumentMoniker": "Datos\\DVehiculo.cs",
+              "ToolTip": "D:\\Fundamentos de sistema de la informacion\\Tareas Academicas 2\\Lab10-Semana10-Bibliotecas y WPF\\Datos\\DVehiculo.cs",
+              "RelativeToolTip": "Datos\\DVehiculo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:21:16.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
