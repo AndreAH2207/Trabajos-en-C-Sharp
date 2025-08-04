@@ -1,7 +1,0 @@
-//Recordar cargar la base de datos y los datos dentro del query en Microsoft SQL Server
-
-Correo electrónico: juanperez@email.com
-Contraseña: 1234
-
-Correo electrónico: maria.ruiz@email.com
-Contraseña: 1234
